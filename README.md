@@ -1,2 +1,2 @@
 # projects-typescript
-Typescript Prohjects
+Typescript Projects
